@@ -1,0 +1,13 @@
+export {default as ArrowDown} from './ArrowDown';
+export {default as Bell} from './Bell';
+export {default as Delete} from './Delete';
+export {default as Hamburger} from './Hamburger';
+export {default as Home} from './Home';
+export {default as MinusCircle} from './MinusCircle';
+export {default as Navigation} from './Navigation';
+export {default as PlusCircle} from './PlusCircle';
+export {default as RightArrow} from './RightArrow';
+export {default as Search} from './Search';
+export {default as ShoppingBag} from './ShoppingBag';
+export {default as Tag} from './Tag';
+export {default as User} from './User';
